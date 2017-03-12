@@ -1,0 +1,9 @@
+Package: ca.kirara.gplv3
+Name: installd OTA Patch
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Freedom is non-negotiable. Makes installd allow over-the-air installation of IPAs signed by free developer accounts.
+Maintainer: The Holy Constituency of the Summer Triangle
+Author: The Holy Constituency of the Summer Triangle
+Section: Tweaks
